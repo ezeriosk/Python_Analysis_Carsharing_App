@@ -1,15 +1,6 @@
-# 🚗 Carsharing Startup Analysis ✨
+# 🚗 Carsharing Startup Analysis 🚗
 
 An analysis using a Python notebook with a dataset for a carsharing startup. The notebook focuses on analyzing the precision of upfront pricing. Additionally, slides are created to showcase the results and propose solutions.
-
-## 🎉 Table of Contents
-- [Introduction](#introduction)
-- [Analysis](#analysis)
-- [Slides](#slides)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Introduction
 
