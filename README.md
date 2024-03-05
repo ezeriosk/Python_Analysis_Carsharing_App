@@ -29,7 +29,7 @@ To get started with the analysis, follow these installation steps:
 
 ```bash
 # Example installation steps
-git clone https://github.com/yourusername/carsharing-analysis.git
-cd carsharing-analysis
+git clone https://github.com/yourusername/carsharing-app-analysis.git
+cd airbnb-amsterdam-analysis
 pip install -r requirements.txt
 
